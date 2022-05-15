@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'QB-Prison'
+description 'QB-Adminjail'
 version '1.0.0'
 
 shared_scripts {
