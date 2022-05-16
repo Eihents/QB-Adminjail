@@ -22,8 +22,8 @@ local Translations = {
         ["lost_job"] = "Tu esi Bezdarbinieks",
         ["jail_time"] = 'Laiks cik viņiem jāatrodas cietumā',
         ["jail_time_no"] = 'Cietuma laikam ir jābūt lielākam par 0',
-        ["sent_jail_for"] = 'Jūs nosūtījāt personu cietumā par %{time} mēnešiem',
-        ["jail_time_input"] = 'Cietuma laiks',
+        ["sent_jail_for"] = 'Jūs nosūtījāt personu adminjailā uz %{time} minūtēm',
+        ["jail_time_input"] = 'Adminjail laiks',
 
     },
     commands = {
